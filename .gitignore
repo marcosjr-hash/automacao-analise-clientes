@@ -1,0 +1,17 @@
+dados/**/*.csv
+dados/**/*.xlsx
+dados/**/*.xls
+
+resultados/*.xlsx
+resultados/*.csv
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.vscode/
+
+Thumbs.db
+.DS_Store
